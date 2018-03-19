@@ -1,2 +1,1 @@
-# solutions_for_show_me_the_code
-solutions for show me the code...
+python练手项目https://github.com/Yixiaohan/show-me-the-code 的一些题目的代码
